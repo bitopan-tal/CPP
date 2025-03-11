@@ -10,7 +10,7 @@ int main() {
     
     // Generating multiplication table
     cout << "Multiplication Table of " << num << ":\n";
-    for (int i = 1; i <= 10; i++) {
+    for (int i = 1; i <= 100; i++) {
         cout << num << " x " << i << " = " << num * i << endl;
     }
     
